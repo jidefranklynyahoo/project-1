@@ -1,0 +1,14 @@
+h1 {text-align: center;
+    font-size: 100px;
+    color: green; 
+}
+#project1{float:left}
+
+#project2{float:left; margin-left: 150px}
+
+#project3{float: right }
+
+body{ background-color:#e2af80}
+
+img{width: 400px; height: 400px}
+
